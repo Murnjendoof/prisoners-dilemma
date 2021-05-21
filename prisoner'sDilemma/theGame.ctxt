@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=theGame
+comment0.text=\r\n\ The\ prisoner's\ dilemma\r\n\r\n\ @author\ Solomon\ Emet\r\n\ @version\ 13/5/2021\r\n
+comment1.params=
+comment1.target=theGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ theGame\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3
