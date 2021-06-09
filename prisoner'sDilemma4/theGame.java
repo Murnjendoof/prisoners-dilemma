@@ -3,7 +3,7 @@
  * The prisoner's dilemma
  *
  * @author Solomon Emet
- * @version 28/5/2021
+ * @version 9/5/2021
  */
 
 //keyboard
